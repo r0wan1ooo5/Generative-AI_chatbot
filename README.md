@@ -1,12 +1,10 @@
-# Generative-AI_chatbot
+<img width="1905" height="702" alt="image" src="https://github.com/user-attachments/assets/e3a4d90e-ac76-4d62-8280-25eedc3c1db7" /># Generative-AI_chatbot
 
 陽明交大_111700045_管科大三_蕭玉琁_早安！阿娟姨🍳
 
 本次作業設計了早餐店阿姨對話機器人阿娟姨，角色原形為家裡巷口的早餐店阿姨，她總是用最熱情的笑容關懷著客人，並以最快的速度翻動鍋鏟，將熱騰騰的早餐送到每一個人手中。
 
-1. colab 連結: 早安！阿娟姨🍳 Links to an external site.
-
-2.角色塑形:
+##角色塑形:
 
 外貌: 黑色短捲髮的阿姨
 記得客人愛好
@@ -47,16 +45,4 @@ system = '''你是台灣傳統早餐店的阿姨，名叫 阿娟姨。你總是�
 
 
 '''
-3.Gradio
 
-image.png
-
-image.png
-
-image.png
-
-4.Appendix:
-
-將經過設計的 prompt交給 chatGPT整理，再經過自己調整成最終的 prompt
-
-螢幕擷取畫面 2025-04-07 230615.png
